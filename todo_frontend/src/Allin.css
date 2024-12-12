@@ -1,0 +1,38 @@
+.container {
+  width: 100%;
+}
+
+.imagess {
+  width: 1220px;
+  height: 472px;
+}
+
+.allPic {
+  margin-left: 4.5%;
+}
+
+.wrapper_picture {
+  margin-top: 30px;
+  width: 1200px;
+  height: 432px;
+}
+
+.wrapper_picture_typing {
+  margin-top: 100px;
+  width: 1200px;
+  height: 432px;
+}
+
+.wrapper_picture_information {
+  margin-top: 100px;
+  width: 1200px;
+  height: 432px;
+}
+
+.lastOne {
+  width: 1200px;
+  height: 432px;
+  margin-left: 4.5%;
+  margin-bottom: 100px;
+  margin-top: 10%;
+}
